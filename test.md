@@ -39,7 +39,7 @@
         
         	return Max3(MaxLeftSum,MaxRightSUm,MaxLeftBorderSum+MaxRightBorderSum);
         }
-    
+    ---
   - O(N) 算法
         int MaxSubsequenceSum(const int A[], int N)
         {
